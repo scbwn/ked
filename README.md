@@ -2,7 +2,7 @@
 
 This code repository implements KED in Python 3.8.
 
-### KED with MLPs
+## KED with MLPs
 
 - Unicauca.ipynb - Jupyter notebook implementing Unicauca dataset.
 
@@ -13,7 +13,7 @@ This code repository implements KED in Python 3.8.
 - MNIST+notMNIST.ipynb - Jupyter notebook implementing KED for MNIST+FashionMNIST dataset.
 
 
-### KED with CNNs
+## KED with CNNs
 
 The 'teachers' folder contains total 15 teacher models for CIFAR10, CIFAR100, and Tiny Imagenet datasets. 
 
