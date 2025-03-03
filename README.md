@@ -17,9 +17,9 @@ This code repository implements KED in Python 3.8.
 
 The 'teachers' folder contains total 15 teacher models for CIFAR10, CIFAR100, and Tiny Imagenet datasets. 
 
-- kd - Contains .py files for implementing KD and KED methods.
-- fitnet - Contains .py files for implementing FitNet augmented with KD and KED methods.
-- at - Contains .py files for implementing attention transfer augmented with KD and KED methods.
-- sp - Contains .py files for implementing similarity preservation augmented with KD and KED methods.
+- kd - Contains files for implementing KD and KED methods.
+- fitnet - Contains files for implementing FitNet augmented with KD and KED methods.
+- at - Contains files for implementing attention transfer augmented with KD and KED methods.
+- sp - Contains files for implementing similarity preservation augmented with KD and KED methods.
 
 Each folder contains separate files for experiments with standard Resnets, wide Resnets and VGGs.
