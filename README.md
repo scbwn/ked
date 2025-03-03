@@ -1,4 +1,4 @@
-# Knowledge Explaining Distillation
+# Knowledge Explaining Distillation (KED)
 
 This code repository implements KED in Python 3.8.
 
